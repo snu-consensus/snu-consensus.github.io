@@ -1,7 +1,7 @@
 # Jekyll Config
 baseurl: "/"
 permalink: pretty
-title: "Jekyll Advance"
+title: "유홍림 홈페이지"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
@@ -13,6 +13,9 @@ sass:
 
 collections:
   services:
+    output: true
+    permalink: /:collection/:path/
+  visions:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -53,6 +56,11 @@ defaults:
       path: "pages"
     values:
       permalink: /:basename/
+  - scope:
+      path: ""
+      type: visions
+    values:
+      layout: visions
 
 # Theme Config
 google_analytics_id: ""

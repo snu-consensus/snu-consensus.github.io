@@ -13,11 +13,11 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
-  background_image: "/assets/images/home/charles-deluvio-Lks7vei-eAg-unsplash-2000.jpg"
+  background_image: "/assets/images/home/main-photo.jpg"
   background_image_blend_mode: false # "overlay", "multiple", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
-  height: "500px" #false # "700px"
+  height: "700px" #false # "700px"
   buttons:
     enabled: false
     list:
@@ -48,6 +48,20 @@ services:
   hide_thumbnail: false
   hide_icon: false
   hide_description: false
+
+visions:
+  enabled: true
+  heading: "발전계획서"
+  sub_heading: ""
+  limit: 6
+  sort: "weight" # 'date'
+  view_more_button_enabled: true
+  view_more_button_text: "발전계획서 모두 보기"
+  view_more_button_link: "/visions"
+  hide_thumbnail: false
+  hide_icon: false
+  hide_description: false
+
 
 intro:
   enabled: true

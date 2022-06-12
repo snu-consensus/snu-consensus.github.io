@@ -25,7 +25,7 @@ body_classes: page-home
   %}
 {% endif %}
 
-{% if page.services.enabled %}
+<!-- {% if page.services.enabled %}
   <div class="strip strip-base">
     <div class="container">
       {% include components/grid.html 
@@ -43,6 +43,26 @@ body_classes: page-home
       %}
     </div>
   </div>
+{% endif %} -->
+
+{% if page.visions.enabled %}
+<div class="strip strip-base">
+  <div class="container">
+    {% include components/grid.html
+    collection="visions"
+    heading=page.visions.heading
+    sub_heading=page.visions.sub_heading
+    limit=page.visions.limit
+    sort=page.visions.sort
+    view_more_button_enabled=page.visions.view_more_button_enabled
+    view_more_button_text=page.visions.view_more_button_text
+    view_more_button_link=page.visions.view_more_button_link
+    hide_thumbnail=page.visions.hide_thumbnail
+    hide_icon=page.visions.hide_icon
+    hide_description=page.visions.hide_description
+    %}
+  </div>
+</div>
 {% endif %}
 
 <!-- {% if page.intro.enabled %}

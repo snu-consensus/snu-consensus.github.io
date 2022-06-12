@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Blog
+title: 유홍림의 생각
 description: "The latest news and opinions"
 permalink: "/blog/"
 header_transparent: false
@@ -14,7 +14,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
-  background_image: false
+  background_image: ""
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
