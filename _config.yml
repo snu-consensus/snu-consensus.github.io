@@ -85,7 +85,7 @@ logo:
   logo_desktop_height: "30px"
   logo_desktop_width: "132px"
   logo_mobile_height: "30px"
-  logo_mobile_width: "34px"
+  logo_mobile_width: "68px"
 
 footer:
   enable_contact_details: true

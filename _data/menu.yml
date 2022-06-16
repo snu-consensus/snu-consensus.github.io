@@ -1,11 +1,11 @@
 main:
-  - name: 홈
+  - name: 첫페이지
     url: /
     weight: 1
-  - name: 유홍림에 대해서
+  - name: 유홍림은..?
     url: /about/
     weight: 2
-  - name: 서울대 비전
+  - name: 유홍림의 서울대 비전
     url: /visions/
     weight: 3
     child:

@@ -8,7 +8,7 @@ meta_title: Homepage of Ryu, Honglim
 
 hero:
   enabled: true
-  heading: "Trusted Community"
+  heading: "Trust SNU"
   sub_heading: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
