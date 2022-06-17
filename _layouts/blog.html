@@ -36,9 +36,9 @@ body_classes: page-blog
       <div class="col-12 col-lg-8">
 
         <div class="row">
-          {% for post in paginator.posts %}
+          <!-- {% for post in paginator.posts %} -->
+          {% for post in post_pages %}
             <div class="col-12 mb-3 mb-md-5">
-              kkk
               {% include cards/card.html
                 style="row"
                 date=post.date
