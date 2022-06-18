@@ -121,7 +121,7 @@ pagination:
   enabled: true
   debug: false
   collection: "posts"
-  per_page: 2
+  per_page: 50
   permalink: "/blog/:num/"
   title: ":title - blog :num"
   sort_field: "date"
