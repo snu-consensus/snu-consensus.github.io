@@ -122,8 +122,8 @@ pagination:
   debug: false
   collection: "posts"
   per_page: 5
-  permalink: "/page/:num/"
-  title: ":title - page :num"
+  permalink: "/blog/:num/"
+  title: ":title - blog :num"
   sort_field: "date"
   sort_reverse: true
   trail:
