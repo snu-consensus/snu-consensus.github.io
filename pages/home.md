@@ -4,12 +4,12 @@ permalink: "/"
 title: "Ryu, Honglim"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
-meta_title: Homepage of Ryu, Honglim
+meta_title: 유홍림 서울대학교 총장 후보
 
 hero:
   enabled: true
   heading: "Trust SNU"
-  sub_heading: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  sub_heading: "자유, 용기, 신뢰의 서울대학교"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
@@ -36,27 +36,14 @@ hero:
         outline: true
         style: "light"
 
-services:
-  enabled: true
-  heading: "발전계획서"
-  sub_heading: ""
-  limit: 6
-  sort: "weight" # 'date'
-  view_more_button_enabled: true
-  view_more_button_text: "발전계획서 모두 보기"
-  view_more_button_link: "/services"
-  hide_thumbnail: false
-  hide_icon: false
-  hide_description: false
-
 visions:
   enabled: true
-  heading: "발전계획서"
+  heading: "서울대 비전"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
   view_more_button_enabled: true
-  view_more_button_text: "발전계획서 모두 보기"
+  view_more_button_text: "서울대 비전 모두 보기"
   view_more_button_link: "/visions"
   hide_thumbnail: false
   hide_icon: false
@@ -106,8 +93,8 @@ projects:
 
 outro:
   enabled: true
-  align: center
-  image: false
+  align: right
+  image: true
   heading: Get Started Today
   sub_heading: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   features:
@@ -115,10 +102,14 @@ outro:
     list:
       - text: "Free Quote"
         fa_icon: "fas fa-envelope-open-text"
+  videos:
+    enabled: true
+    list:
+      - id: tgbNymZ7vqY
   buttons:
     enabled: true
     list:
-      - text: "Contact Us"
+      - text: "동영상 모두 보기"
         url: "/contact"
         external: false
         size: "large"

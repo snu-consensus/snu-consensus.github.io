@@ -9,12 +9,11 @@ main:
     url: /visions/
     weight: 3
     child:
-      - name: "Web Development"
-        url: /services/web-development/
-      - name: "UX"
-        url: /services/user-experience/
-      - name: "Branding"
-        url: /services/branding/
+      - name: "교육"
+        url: /visions/education/
+      - name: "연구"
+        url: /visions/research/
+
   # - name: Projects
   #   url: /projects/
   #   weight: 2

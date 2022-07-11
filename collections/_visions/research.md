@@ -1,22 +1,22 @@
 ---
-title: "교육"
+title: "연구"
 description: "Our experienced software engineers develop websites and desktop applications"
 date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/services/icons8-source-code-100.png"
-thumbnail: "/assets/images/visions/edu2-thumb.jpg"
-image: "/assets/images/visions/edu2.jpg"
+thumbnail: "/assets/images/visions/research-thumb.jpg"
+image: "/assets/images/visions/research.jpg"
 
 hero:
   enabled: true
-  heading: "교육"
-  sub_heading: "Education<br><br>소크라테스, “교육은 그릇을 채우는 것이 아니라, 불꽃에 불을 붙이는 것입니다.”"
+  heading: "연구"
+  sub_heading: "Research"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/visions/edu2.jpg"
+  background_image: "/assets/images/visions/research.jpg"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false

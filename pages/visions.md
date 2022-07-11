@@ -1,14 +1,14 @@
 ---
 layout: list
 collection: "visions"
-title: Vision
+title: 유홍림의 서울대 비전
 description: "We deliver a complete range of digital services."
 permalink: "/visions/"
 header_transparent: false
 
 hero:
   enabled: false
-  heading: "Vision"
+  heading: "유홍림의 서울대 비전"
   sub_heading: "We deliver a complete range of digital services."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
