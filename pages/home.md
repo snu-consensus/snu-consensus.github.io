@@ -8,8 +8,8 @@ meta_title: 유홍림 서울대학교 총장 후보
 
 hero:
   enabled: true
-  heading: "Trust SNU"
-  sub_heading: "자유, 용기, 신뢰의 서울대학교"
+  heading: "자유와 신뢰의 플랫폼,<br>서울대학교"
+  sub_heading: "SNU Consensus "
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
