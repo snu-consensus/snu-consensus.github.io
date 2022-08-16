@@ -63,7 +63,7 @@ defaults:
       layout: visions
 
 # Theme Config
-google_analytics_id: ""
+google_analytics_id: "3986220012"
 enable_dark_mode: true
 enable_fixed_header: true
 
