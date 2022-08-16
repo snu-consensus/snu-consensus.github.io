@@ -5,6 +5,7 @@ title: 유홍림의 서울대 비전
 description: "Vision"
 permalink: "/visions/"
 header_transparent: false
+hide_icon: true
 
 hero:
   enabled: false

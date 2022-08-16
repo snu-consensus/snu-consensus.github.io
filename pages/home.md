@@ -4,7 +4,7 @@ permalink: "/"
 title: "Ryu, Honglim"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
-meta_title: 유홍림 서울대학교 총장 후보
+meta_title: 서울대학교 유홍림
 
 hero:
   enabled: true
@@ -38,7 +38,7 @@ hero:
 
 visions:
   enabled: true
-  heading: "서울대 비전"
+  heading: "유홍림의 서울대 비전"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
@@ -46,7 +46,7 @@ visions:
   view_more_button_text: "서울대 비전 모두 보기"
   view_more_button_link: "/visions"
   hide_thumbnail: false
-  hide_icon: false
+  hide_icon: true
   hide_description: false
 
 
@@ -93,24 +93,28 @@ projects:
 
 outro:
   enabled: true
-  align: right
-  image: true
-  heading: Get Started Today
-  sub_heading: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  align: center
+  image: false
+  heading: 발전계획서 다운로드
+  sub_heading: "우리의 선택과 새로운 상상이 미래를 만듭니다. 우리는 교육과 연구, 공헌의 형식과 내용을 과감하게 다시 짜야 합니다. 우리를 위축시키고 있는 틀과 칸막이를 깨야 합니다. 이를 위한 오랜 고민을 발전계획서에 담았습니다."
   features:
     enabled: false
     list:
       - text: "Free Quote"
         fa_icon: "fas fa-envelope-open-text"
-  videos:
-    enabled: true
-    list:
-      - id: tgbNymZ7vqY
+  # videos:
+  #   enabled: true
+  #   list:
+  #     - id: tgbNymZ7vqY
   buttons:
     enabled: true
     list:
-      - text: "동영상 모두 보기"
-        url: "/contact"
+      - text: "발전계획서"
+        url: "/assets/files/snu-vision.pdf"
+        external: false
+        size: "large"
+      - text: "소견서"
+        url: "/assets/files/statement.pdf"
         external: false
         size: "large"
 

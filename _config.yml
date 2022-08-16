@@ -63,8 +63,8 @@ defaults:
       layout: visions
 
 # Theme Config
-google_analytics_id: "3986220012"
-enable_dark_mode: true
+google_analytics_id: "G-YB8SKVCHYJ"
+enable_dark_mode: false
 enable_fixed_header: true
 
 colors:
@@ -91,14 +91,14 @@ footer:
   enable_contact_details: true
   contact_details_heading: "Contact"
 
-  enable_social_media_icons: true
+  enable_social_media_icons: false
 
   enable_menu_footer_primary: true
   footer_primary_menu_title: "About"
   enable_menu_footer_secondary: true
   footer_secondary_menu_title: "Vision"
-  enable_menu_footer_tertiary: false
-  footer_tertiary_menu_title: "Menu3"
+  enable_menu_footer_tertiary: true
+  footer_tertiary_menu_title: "&nbsp;"
   enable_bottom_menu: true
 
   enable_copyright: true

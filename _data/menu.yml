@@ -61,23 +61,21 @@ footer_secondary:
   - name: 교육
     url: /visions/education/
     weight: 4
-  - name: 복지
-    url: /visions/welfare/
-    weight: 5
-  - name: 멀티캠퍼스
-    url: /visions/multicampus/
-    weight: 6
-  - name: 국제화/공헌
-    url: /visions/international/
-    weight: 6
-  - name: 재정
-    url: /visions/finance/
-    weight: 6
+
 
 footer_tertiary:
-  - name: Contact
-    url: /contact/
+  - name: 복지
+    url: /visions/welfare/
     weight: 1
+  - name: 멀티캠퍼스
+    url: /visions/multicampus/
+    weight: 2
+  - name: 국제화/공헌
+    url: /visions/international/
+    weight: 3
+  - name: 재정
+    url: /visions/finance/
+    weight: 4
   # - name: Buy Now
   #   url: https://www.zerostatic.io/theme/jekyll-advance/
   #   weight: 2
