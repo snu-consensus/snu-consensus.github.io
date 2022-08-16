@@ -5,6 +5,9 @@ title: "Ryu, Honglim"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
 meta_title: 서울대학교 유홍림
+meta_og_image: "/assets/images/home/preview.jpg"
+meta_og_title: "유홍림 홈페이지"
+meta_og_url: "https://snu-consensus.github.io/"
 
 hero:
   enabled: true
