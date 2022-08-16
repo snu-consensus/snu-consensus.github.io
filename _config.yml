@@ -118,7 +118,7 @@ plugins:
   - jekyll-paginate-v2
 
 pagination:
-  enabled: true
+  enabled: false
   debug: false
   collection: "posts"
   per_page: 50
