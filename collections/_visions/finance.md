@@ -6,8 +6,8 @@ weight: 8
 header_transparent: true
 fa_icon: false
 icon: "assets/images/services/icons8-source-code-100.png"
-thumbnail: "/assets/images/visions/research-thumb.jpg"
-image: "/assets/images/visions/research.jpg"
+thumbnail: "/assets/images/visions/finance-thumb.jpg"
+image: "/assets/images/visions/finance.jpg"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/visions/research.jpg"
+  background_image: "/assets/images/visions/finance.jpg"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false

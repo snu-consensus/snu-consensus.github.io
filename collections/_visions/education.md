@@ -6,8 +6,8 @@ weight: 4
 header_transparent: true
 fa_icon: false
 icon: "assets/images/services/icons8-source-code-100.png"
-thumbnail: "/assets/images/visions/edu2-thumb.jpg"
-image: "/assets/images/visions/edu2.jpg"
+thumbnail: "/assets/images/visions/education-thumb.jpg"
+image: "/assets/images/visions/education.jpg"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/visions/edu2.jpg"
+  background_image: "/assets/images/visions/education.jpg"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
