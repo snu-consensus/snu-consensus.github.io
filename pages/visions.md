@@ -2,14 +2,14 @@
 layout: list
 collection: "visions"
 title: 유홍림의 서울대 비전
-description: "We deliver a complete range of digital services."
+description: "Vision"
 permalink: "/visions/"
 header_transparent: false
 
 hero:
   enabled: false
   heading: "유홍림의 서울대 비전"
-  sub_heading: "We deliver a complete range of digital services."
+  sub_heading: "Vision"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
@@ -18,7 +18,7 @@ hero:
   fullscreen_mobile: false
   fullscreen_desktop: false
   buttons:
-    enabled: true
+    enabled: false
     list:
       - text: "Contact Us"
         url: "/contact"
@@ -44,7 +44,7 @@ intro:
         size: normal
 
 outro:
-  enabled: true
+  enabled: false
   align: left
   image: false
   heading: "Ready to get started?"

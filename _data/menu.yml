@@ -9,10 +9,22 @@ main:
     url: /visions/
     weight: 3
     child:
-      - name: "교육"
-        url: /visions/education/
+      - name: "법인화 2.0"
+        url: /visions/SNU2.0/
+      - name: "거버넌스"
+        url: /visions/governance/
       - name: "연구"
         url: /visions/research/
+      - name: "교육"
+        url: /visions/education/
+      - name: "복지"
+        url: /visions/welfare/
+      - name: "멀티캠퍼스"
+        url: /visions/multicampus/
+      - name: "국제화/공헌"
+        url: /visions/international/
+      - name: "재정"
+        url: /visions/finance/
 
   # - name: Projects
   #   url: /projects/
@@ -24,11 +36,11 @@ main:
   #   url: https://www.zerostatic.io/theme/jekyll-advance/
   #   weight: 6
 footer_primary:
-  - name: Home
-    url: /
-    weight: 1
-  - name: About
+  - name: 유홍림은...?
     url: /about/
+    weight: 1
+  - name: 유홍림의 생각
+    url: /blog/
     weight: 2
   # - name: Projects
   #   url: /projects/
@@ -37,12 +49,30 @@ footer_primary:
   #   url: /team/
   #   weight: 4
 footer_secondary:
-  - name: Commitment
-    url: /services/
+  - name: 법인화 2.0
+    url: /visions/SNU2.0/
     weight: 1
-  - name: Blog
-    url: /blog/
+  - name: 거버넌스
+    url: /visions/governance/
     weight: 2
+  - name: 연구
+    url: /visions/research/
+    weight: 3
+  - name: 교육
+    url: /visions/education/
+    weight: 4
+  - name: 복지
+    url: /visions/welfare/
+    weight: 5
+  - name: 멀티캠퍼스
+    url: /visions/multicampus/
+    weight: 6
+  - name: 국제화/공헌
+    url: /visions/international/
+    weight: 6
+  - name: 재정
+    url: /visions/finance/
+    weight: 6
 
 footer_tertiary:
   - name: Contact

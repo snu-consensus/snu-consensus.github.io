@@ -94,10 +94,10 @@ footer:
   enable_social_media_icons: true
 
   enable_menu_footer_primary: true
-  footer_primary_menu_title: "Menu1"
+  footer_primary_menu_title: "About"
   enable_menu_footer_secondary: true
-  footer_secondary_menu_title: "Menu2"
-  enable_menu_footer_tertiary: true
+  footer_secondary_menu_title: "Vision"
+  enable_menu_footer_tertiary: false
   footer_tertiary_menu_title: "Menu3"
   enable_bottom_menu: true
 
