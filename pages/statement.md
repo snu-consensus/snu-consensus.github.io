@@ -53,5 +53,3 @@ hero:
 유 홍 림
 
 {% include markdown/figure.html src="/assets/images/about/profile_02.jpg" %}
-
-{% include markdown/figure.html src="/assets/images/about/profile_03.jpg" %}
