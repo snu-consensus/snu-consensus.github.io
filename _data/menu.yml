@@ -3,7 +3,7 @@ main:
     url: /
     weight: 1
   - name: 유홍림은..?
-    url: 
+    url: /about/
     weight: 2
     child:
       - name: "유홍림은..?"
