@@ -116,6 +116,7 @@ enable_breadcrumbs_projects: true
 plugins:
   - jekyll-environment-variables
   - jekyll-paginate-v2
+  # - jekyll-paginate
 
 pagination:
   enabled: false

@@ -24,29 +24,102 @@ hero:
         size: large
 ---
 
-# 유홍림이 걸어온 길
 
 {% include markdown/figure.html src="/assets/images/about/profile_01.jpg" %}
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et libero quis elit sollicitudin cursus. Duis sollicitudin leo sit amet risus dictum viverra. Duis in faucibus mauris. Aliquam ut imperdiet quam. Aenean sed eleifend risus. Vivamus in ante sit amet justo vulputate finibus. Nam tristique ex nec nulla dictum, varius iaculis orci congue. Nulla imperdiet imperdiet rutrum. Nunc vitae sem ullamcorper, iaculis nisi at, finibus purus. Cras hendrerit vel quam sit amet luctus. Praesent sed sodales leo, molestie congue ligula. Phasellus imperdiet vehicula augue eget gravida. Pellentesque sit amet mauris vel nisi pretium blandit. Cras consectetur, risus vel convallis tempus, magna lacus lacinia mi, non interdum odio mi pellentesque neque.
+## 안녕하십니까? 유홍림입니다.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget varius ante. Phasellus rutrum a sapien ac posuere. Pellentesque vulputate pretium eros, in venenatis leo laoreet vel. Mauris turpis mauris, bibendum nec arcu vel, vestibulum molestie massa. Vestibulum feugiat ante vel massa cursus, sed tincidunt tortor consectetur. Proin eu faucibus ligula. Ut scelerisque tortor id tortor blandit, vel semper arcu dapibus. Morbi commodo sem id vulputate facilisis. Morbi ultricies velit ante, eu aliquet neque congue id. Suspendisse eu felis nibh. Etiam velit augue, feugiat ut tortor eu, rhoncus tempus elit. Nullam tincidunt sodales nisi non congue.
+저는 서울대의 새로운 도약을 향한 여러분들의 열망을 실천에 옮기고자 제28대 총장 후보로 나섰습니다. 길지 않은 선출 과정이지만, 서울대와 함께 한 긴 여정 동안의 배움과 경험을 모두 담아내려 합니다.
 
-In pharetra maximus ex, sit amet cursus mi. Sed in dignissim odio. Morbi elementum mauris quam, sed ullamcorper neque pretium nec. Integer posuere aliquet est, non suscipit arcu euismod ac. Ut quis tincidunt sapien, vehicula cursus metus. Cras vulputate, lorem eu faucibus consectetur, nunc tellus bibendum elit, vel bibendum magna eros at est. Phasellus bibendum condimentum suscipit. Donec fringilla, orci at scelerisque consectetur, erat ex mattis neque, eget pulvinar sapien tortor eget nunc. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut congue nulla eu sem fermentum molestie. Nullam enim magna, cursus vitae tristique eget, fringilla et erat. Praesent bibendum est nunc, in facilisis dui suscipit at. Nam malesuada ac mauris eget rutrum. Morbi et nibh id libero lacinia tempus vel sed arcu.
+### 리더십과 경험
 
-## 서울대 비전
+저는 지난 40여 년 동안 정치사상을 공부해 왔습니다. 정치사상은 강한 실천적 지향을 가진 학문입니다. 복잡한 갈등과 딜레마의 상황에서 어떻게 하면 공동체를 위한 보다 나은 선택에 이를 수 있을지를 탐구하는 것이 그 요체라고 할 수 있습니다.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget varius ante. Phasellus rutrum a sapien ac posuere. Pellentesque vulputate pretium eros, in venenatis leo laoreet vel. Mauris turpis mauris, bibendum nec arcu vel, vestibulum molestie massa. Vestibulum feugiat ante vel massa cursus, sed tincidunt tortor consectetur. Proin eu faucibus ligula. Ut scelerisque tortor id tortor blandit, vel semper arcu dapibus. Morbi commodo sem id vulputate facilisis. Morbi ultricies velit ante, eu aliquet neque congue id. Suspendisse eu felis nibh. Etiam velit augue, feugiat ut tortor eu, rhoncus tempus elit. Nullam tincidunt sodales nisi non congue.
+이러한 탐구는 서울대에서 제가 맡아온 다른 역할들과도 자연스럽게 연결됩니다. 지난 27년간 정치학을 가르치면서 무엇보다 학생들에게 성숙한 판단력과 리더십의 중요성을 강조했습니다. 그리고 법인화준비위원회 위원, 대학신문사 주간, 사회대 학장 등의 일을 두루 맡으며 구성원들의 지혜를 모아 합의를 만들어내기 위해 노력했습니다. 최근에는 정부와 사회, 산업계를 연결하는 초학제적 싱크탱크 ‘국가미래전략원’의 창립과정을 주도하기도 했습니다.
 
-> Some Quote
+### 열정과 의지
+
+그간의 경험과 배움을 통해 서울대가 처한 현실을 더욱 잘 파악하고, 우리 대학이 역동성을 되찾을 방안들을 구체화할 수 있었다고 감히 말씀드립니다. 서울대의 혁신을 위해 전력을 다하겠다는 각오와 열정도 다져왔습니다.
+
+ ‘서울대의 공동 비전’(SNU Consensus)을 도출하고, 미래를 여는 지식과 규범을 창출하는 학문공동체를 함께 만들어갑시다. 제가 앞장서겠습니다.
+
+감사합니다.
+
+<!-- <img class="sign" src="/assets/images/about/signature.png" width=100 height=100> -->
+
+
+<br>
+<hr>
+<br>
 
 ## 약력
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+> 성 명: 유 홍 림 (柳 弘 林, Honglim Ryu) <br>
+> 현 직: 서울대학교 사회과학대학 정치외교학부 교수 <br>
+> Email: honglim@snu.ac.kr <br>
+
+### 학 력
+* 1989.9 – 1994.5   미국 럿거스 대학교(Rutgers University) (정치학 박사)
+* 1987.3 – 1989.8   서울대학교 대학원 정치학과 (박사과정 수료)
+* 1984.3 – 1986.2   서울대학교 대학원 정치학과 (정치학 석사)
+* 1980.3 – 1984.2   서울대학교 사회과학대학 정치학과 (정치학사)
+
+### 주요 경력
+* 2006.4 – 현재      서울대학교 사회과학대학 정치외교학부 교수
+* 1999.10 – 2006.3   서울대학교 사회과학대학 정치학과 부교수
+* 1995.9 - 1999.9    서울대학교 사회과학대학 정치학과 조교수
+* 2009.1 – 2010.1    미국 Rutgers University 방문교수
+* 2001.8 – 2002.8    미국 Harvard-Yenching Institute 방문학자
+* 2020.1 – 2022.1    서울대학교 사회과학대학 학장
+* 2016.9 – 2018.8    서울대학교 사회과학대학 정치외교학부 학부장
+* 2016.4 – 2020.1    서울대학교 기초학문진흥위원회 위원
+* 2013.3 – 2015.2    서울대학교 기록관 관장
+* 2012.8 – 2015.7    서울대학교 대학신문사 주간
+* 2011.4 – 2012.1    국립대학법인 서울대학교 설립준비실행위원회 운영체제분과위원
+* 2010.11 – 2011.4   서울대학교 발전실행위원회 위원
+* 2010.10 – 2014.10  서울대학교 기초교육위원회 위원
+* 2010.3 – 2011.8    서울대학교 정치외교학부 정치학전공주임
+* 2006.3 – 2008.2    서울대학교 사회과학도서관 관장
+* 2002.8 – 2004.7    서울대학교 사회과학대학 학생부학장
+* 2000.7 – 2001.7    서울대학교 사회과학대학 정치학과 학과장
+* 2017.6 – 2018.6    한국정치사상학회 회장
+* 2016.1 – 2016.12   한국정치학회 부회장
+* 2004.1 – 2008.12   한국정치학회보 편집위원
+* 2000.1 – 2009.12   New Political Science 편집위원
 
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+### 주요 연구업적
 
+단행본:
+* 『미국 민주주의의 문화사』(공역, 한울아카데미, 1999); 『현대 정치사상 연구』(저서, 인간사랑, 2003); 『현대 정치의 이해』(공저, 인간사랑, 2003); 『현대 정치와 사상』(역서, 인간사랑, 2005); 『전쟁과 정의』(공역, 인간사랑, 2009); 『인권의 * 정치사상』(공저, 이학사, 2010); 『서양 고대 중세 정치사상사』(공저, 책세상, 2011); 『정치학의 이해』(공저, 박영사, 2019), 『현대정치의 위기와 비전』(공저, 아카넷, 2020); 『정치사상과 사회발전』(공저, 중앙books, 2021)
 
-{% include markdown/youtube.html id='2M6dJ2Uynhg' %}
+논문:
+* 유홍림, “칸트주의적 자유민주주의 규범론의 의의와 한계,” 『한국정치학회보』, 28:2, 1995.
+* 유홍림, “니체와 근대성의 위기,” 『레오 스트라우스의 정치철학』, 서울대출판부, 1995.
+* Honglim Ryu, "Sources of the Communitarian Ethics," New Political Science, no. 36/37, 1996.
+* 유홍림, “세계화와 탈산업시대의 패러다임 전환과 새로운 인문사회과학,” 『세계화와 민족문화의 발전󰡕, 한국정신문화연구원, 1996.
+* 유홍림, “해체주의의 윤리적 함의,” 『사회비평』, 제14호, 1996.
+* 유홍림, “로티의 정치사상,” 『철학과 현실』, 겨울호, 1996.
+* 유홍림, “타자성에의 개방,” 『데리다 읽기』, 문학과 지성사, 1997.
+* 유홍림, “미국의 공동체주의 정치사상,” 『미국학』, 제20집, 1997.
+* 유홍림, “하버마스의 재구성적 정치이론,” 『한국정치연구』 7, 1998.
+* Honglim Ryu, "Multiculturalism in the Korean Context," Korea Focus 6:3, 1998.
+* Honglim Ryu, "Justifying Discourse Ethics in the Public Sphere," Habermas and the Korean Debate, SNU Press, 1998.
+* 유홍림, “현대 자유주의사상 연구: 자유주의에 대한 재구성적 이해,” 『한국사회과학』 21:4, 1999.
+* Honglim Ryu, "A Reading of the Dialectic of Enlightenment: The Fate of Reason in the Contemporary World," Journal of Korean Politics, Vol. 8/9, 1999.
+* Honglim Ryu, "Ethics of Ambiguity and Irony," Human Studies, 24:1/2, 2001.
+* 유홍림, “인권의 보편성 문제,” 『민주주의와 인권』 1:1, 2001.
+* 유홍림, “한국 정치이념의 역사와 과제,” 『한국정치연구』 11:2, 2002.
+* Honglim Ryu, “Conceptualizing the Multicultural Public Sphere: Public Sphere, Rationality and  Multiculturalism,” 『한국사회과학』, 24권 2호, 2002.
+* 柳弘林, “解讀尼采對禁慾理想的批判(Making Sense of Nietzsche’s Critique of the Ascetic Ideal),” 『中西政治文化* 論叢』, 天津人民出版社, 2002.
+* 柳弘林, “現代韓國의 政治理念: 民族主義, 自由民主主義, 人權思想,” 『東아시아에 있어서의 公共知의 創出: 過去, 現在, 未來』, 東京大學出版會, 2003.
+* 유홍림, “민주적 가치관 정립의 과정과 조건,” 『가치와 한국정치』, 소화, 2005.
+* 유홍림, “노직: 자유지상주의,” 『자유주의: 시장과 정치』, 부키, 2006.
+* 유홍림, “북한 통치이데올로기의 형성과 변화,” 『북한체제의 형성과 한반도 국제정치』, 서울대학교출판부, 2006.
+* 유홍림, “남북한 통합 논의의 이념적 자원,” 『한국정치연구』 16:2, 2007.
+* 유홍림, 홍철기, “조르지오 아감벤(Giorgio Agamben)의 포스트모던 정치철학: 주권, 헐벗은 삶, 그리고 잠재성의 정치,” 『정치사상연구』 13:2, 2007.
+* 유홍림, “공동체주의,” 한국정치학회 편, 『정치학이해의 길잡이: 정치사상』, 법문사, 2008.
+* 유홍림, “지속가능한 민주주의의 조건: ‘토의정치’의 제도화,” 조흥식 외 공저, 『한국의 지속가능한 발전전략과 정책 대안』, 서울대출판문화원, 2014.
+* 유홍림, “공화주의 전통의 현대적 의의,” 『한국정치연구』 27:3, 2018.
+* 유홍림, “이사야 벌린(Isaiah Berlin)의 ‘현실감각’,”  『정치사상연구』 25:2, 2019.
