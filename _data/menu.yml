@@ -3,8 +3,14 @@ main:
     url: /
     weight: 1
   - name: 유홍림은..?
-    url: /about/
+    url: 
     weight: 2
+    child:
+      - name: "유홍림은..?"
+        url: /about/
+      - name: "서울대 총장에 출마하며..."
+        url: /statement/
+      
   - name: 유홍림의 서울대 비전
     url: /visions/
     weight: 3
@@ -39,9 +45,13 @@ footer_primary:
   - name: 유홍림은...?
     url: /about/
     weight: 1
+  - name: 서울대 총장에 출마하며...
+    url: /statement/
+    weight: 2
   - name: 유홍림의 생각
     url: /blog/
-    weight: 2
+    weight: 3
+  
   # - name: Projects
   #   url: /projects/
   #   weight: 3
@@ -61,21 +71,22 @@ footer_secondary:
   - name: 교육
     url: /visions/education/
     weight: 4
+  - name: 복지
+    url: /visions/welfare/
+    weight: 5
+  - name: 멀티캠퍼스
+    url: /visions/multicampus/
+    weight: 6
+  - name: 국제화/공헌
+    url: /visions/international/
+    weight: 7
+  - name: 재정
+    url: /visions/finance/
+    weight: 8
 
 
 footer_tertiary:
-  - name: 복지
-    url: /visions/welfare/
-    weight: 1
-  - name: 멀티캠퍼스
-    url: /visions/multicampus/
-    weight: 2
-  - name: 국제화/공헌
-    url: /visions/international/
-    weight: 3
-  - name: 재정
-    url: /visions/finance/
-    weight: 4
+  
   # - name: Buy Now
   #   url: https://www.zerostatic.io/theme/jekyll-advance/
   #   weight: 2

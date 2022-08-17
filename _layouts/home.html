@@ -45,6 +45,21 @@ body_classes: page-home
   </div>
 {% endif %} -->
 
+{% if page.intro.enabled %}
+<div class="strip strip-alt">
+  <div class="container">
+    {% include components/info.html
+    heading=page.intro.heading
+    sub_heading=page.intro.sub_heading
+    align=page.intro.align
+    features=page.intro.features
+    buttons=page.intro.buttons
+    image=page.intro.image
+    %}
+  </div>
+</div>
+{% endif %}
+
 {% if page.visions.enabled %}
 <div class="strip strip-base">
   <div class="container">
@@ -64,21 +79,6 @@ body_classes: page-home
   </div>
 </div>
 {% endif %}
-
-<!-- {% if page.intro.enabled %}
-  <div class="strip strip-alt">
-    <div class="container">
-      {% include components/info.html 
-        heading=page.intro.heading
-        sub_heading=page.intro.sub_heading
-        align=page.intro.align
-        features=page.intro.features
-        buttons=page.intro.buttons
-        image=page.intro.image 
-      %}
-    </div>
-  </div>
-{% endif %} -->
 
 <!-- {% if page.projects.enabled %}
   <div class="strip strip-base">
