@@ -6,8 +6,8 @@ weight: 2
 header_transparent: true
 fa_icon: false
 icon: "assets/images/services/icons8-source-code-100.png"
-thumbnail: "/assets/images/visions/governance-thumb.jpg"
-image: "/assets/images/visions/governance.jpg"
+thumbnail: "/assets/images/visions/governance1-thumb.jpg"
+image: "/assets/images/visions/governance1.jpg"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/visions/governance.jpg"
+  background_image: "/assets/images/visions/governance1.jpg"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
